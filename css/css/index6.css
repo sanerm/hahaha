@@ -114,16 +114,30 @@ nav .box2 ul li a:hover{
 	width: 30px;
 	height: 30px;
 	margin-top: 5px;
-	background-color: yellow;
+	
 	float: left;
+}
+.section1 .box1 .b11 .b111 .left i{
+	display: block;
+	width: 100%;
+	height: 100%;
+	font-size: 30px;
+	color: #fff;
 }
 .section1 .box1 .b11 .b111 .right{
 	width: 30px;
 	height: 30px;
 	margin-top: 5px;
-	background-color: yellow;
+	
 	float: left;
 	margin-left: 100px;
+}
+.section1 .box1 .b11 .b111 .right i{
+	display: block;
+	width: 100%;
+	height: 100%;
+	font-size: 30px;
+	color: #fff;
 }
 .section1 .box1 .b11 .b111 h2{
 	width: auto;
@@ -159,8 +173,15 @@ nav .box2 ul li a:hover{
 .section1 .box1 .b12 .b121 .b1{
 	width: 30px;
 	height: 30px;
-	background-color: yellow;
+	
 	float: left;
+}
+.section1 .box1 .b12 .b121 .b1 i{
+	display: block;
+	width: 100%;
+	height: 100%;
+	font-size: 30px;
+	color: #989898;
 }
 .section1 .box1 .b12 .b121 h2{
 	display: block;

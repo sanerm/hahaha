@@ -160,12 +160,25 @@ nav .box2 ul li a:hover{
 	box-sizing: border-box;
 	border: 1px solid #7bc549;
 	margin: 4px;
-	background-color: yellow;
+	
+	border-radius: 50%;
 }
 .section1 .box1 .b12 .a2 i{
 	display: block;
 	width: auto;
 	height: auto;
+	font-size: 16px;
+	color: green;
+
+}
+/* .section1 .box1 .b12 .a2 i:nth-child(1){
+	
+} */
+.section1 .box1 .b12 .a2 i:nth-child(2){
+	color: blue;
+}
+.section1 .box1 .b12 .a2 i:nth-child(3){
+	color: red;
 }
 .section1 .box2 .b21{
 	width: 100%;
